@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * print_to_98 - print a sequence starting from a give number to 98
- * @n: starting number
+ * print_to_98 - print a sequence from a given number to 98
+ * @n: strating number
  *
  */
 void print_to_98(int n)

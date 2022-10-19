@@ -1,11 +1,11 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * add - add two numbers
- * @n1: first number
- * @n2: second number
+ * add - add two integers and return result
+ * @n1: first integer
+ * @n2: second integer
  *
- * Return: sum of n1 and n2
+ * Return: sum of n1 + n2
  */
 int add(int n1, int n2)
 {

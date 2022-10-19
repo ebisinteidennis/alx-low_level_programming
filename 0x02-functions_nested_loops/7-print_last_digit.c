@@ -1,8 +1,8 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * print_last_digit - print the last digit of an integer
- * @num: the number to be processed
+ * print_last_digit - print the last digit of a number
+ * @num: integer to be processed
  *
  * Return: last digit of num
  */

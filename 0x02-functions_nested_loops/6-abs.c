@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _abs - print the absolute value of a number
- * @num: the number to be checked
+ * _abs - print the absolute value of an integer
+ * @num: the number to be processed
  *
- * Return: the absolute value of num
+ * Return: the absolute value of an integer
  */
 int _abs(int num)
 {
