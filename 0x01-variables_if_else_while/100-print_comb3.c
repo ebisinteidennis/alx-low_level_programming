@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: print all possible combinations of two digits
+ * Description: prints combination of two digits
  * Return: 0 (success)
  */
 int main(void)
@@ -22,6 +22,6 @@ int main(void)
 			}
 		}
 	}
-	putchar('\n');
-	return (0);
+		putchar('\n');
+		return (0);
 }

@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: print all numbers of base 16
+ * Description: Print all number of base 16
  * Return: 0 (success)
  */
 int main(void)

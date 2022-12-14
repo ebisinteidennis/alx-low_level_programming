@@ -2,12 +2,13 @@
 
 /**
  * main - Entry point
- * Description: print lowercase alphabet then uppercase
+ * Description: print lowercase alphabets and uppercase
  * Return: 0 (success)
  */
 int main(void)
 {
 	char ch;
+
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);

@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
- * Description: print combination of the digits 0 to 9
+ * Description: print combination of the numbers 0-9
  * Return: 0 (success)
  */
 int main(void)

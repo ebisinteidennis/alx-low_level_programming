@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: print numbers 0 to 9 using putchar()
+ * Description: print number 0 to 9
  * Return: 0 (success)
  */
 int main(void)
